@@ -1,4 +1,4 @@
-package Pratica04.Excecao;
+package Excecao;
 
 import Pratica03.Cliente.Cliente;
 
