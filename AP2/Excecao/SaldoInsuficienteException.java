@@ -1,4 +1,4 @@
-package Pratica04.Excecao;
+package Excecao;
 
 public class SaldoInsuficienteException extends Exception {
     private double saldo;
