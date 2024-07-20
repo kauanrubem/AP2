@@ -1,4 +1,4 @@
-package Pratica01;
+package Aluno;
 public class Nota {
     public static void main (String arg[]){
         String nota;
