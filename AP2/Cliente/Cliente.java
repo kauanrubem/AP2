@@ -1,4 +1,4 @@
-package Pratica03.Cliente;
+package Cliente;
 
     public abstract class Cliente {
         private String nome;
