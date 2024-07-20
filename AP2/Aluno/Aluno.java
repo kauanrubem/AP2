@@ -1,4 +1,4 @@
-package Pratica01.Aluno;
+package Aluno;
 
 public class Aluno {
     
