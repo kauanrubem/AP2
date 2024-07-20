@@ -1,4 +1,4 @@
-package Pratica03.Cliente;
+package Cliente;
 
 public class PessoaJuridica extends Cliente{
     private String cnpj;
