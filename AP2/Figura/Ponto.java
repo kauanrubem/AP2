@@ -1,4 +1,4 @@
-package Pratica02.Figura;
+package Figura;
 
 public class Ponto {
     
