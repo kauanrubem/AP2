@@ -1,4 +1,4 @@
-package Pratica03.Cliente;
+package Cliente;
 
 public class PessoaFisica extends Cliente{
     private String cpf;
